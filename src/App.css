@@ -414,3 +414,11 @@ nav button.ativo {
   text-align: center;
   font-weight: bold;
 }
+/* Ajuste dos títulos dos cards */
+
+.card h3 {
+  font-size: 24px;
+  line-height: 1.2;
+  word-break: normal;
+  overflow-wrap: normal;
+}
