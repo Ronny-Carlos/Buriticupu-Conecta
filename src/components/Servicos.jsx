@@ -5,7 +5,7 @@ function Servicos() {
 
   const servicos = [
     {
-      titulo: "Serviços públicos 01",
+      titulo: "Serviços públicos",
       descricao:
         "Encontre informações sobre serviços e atendimentos disponíveis para a população.",
     },
