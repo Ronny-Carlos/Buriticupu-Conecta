@@ -1,7 +1,7 @@
 function Sobre() {
   return (
     <section className="sobre">
-      <h2>Sobre o projeto</h2>
+      <h3>Sobre o projeto</h3>
 
       <p>
         O Buriticupu Conecta foi desenvolvido com o objetivo de
